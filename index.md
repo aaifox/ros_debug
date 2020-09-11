@@ -27,7 +27,7 @@
     
 *  <img src="media/ros_launch.png" alt="ros_launch" width="400"/>
 
-  6. Select package for example `ipid_control`
+  6. Select package, for example `ipid_control`
     
 *  <img src="media/ros_package.png" alt="ros_package" width="400"/>    
   
@@ -37,7 +37,7 @@
   
   8. A `launch.json` will be generated
     
-*  <img src="media/launch_json.png" alt="launch_json" width="400"/>
+*  <img src="media/launch_json.png" alt="launch_json" width="600"/>
     
 ### Debug
 
