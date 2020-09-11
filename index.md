@@ -1,6 +1,6 @@
-## Debug ROS using `VScode`
+# Debug ROS using `VScode`
 
-### Prerequisites
+## Prerequisites
   - [VScode](https://code.visualstudio.com/)
   - [GDB](https://www.gnu.org/software/gdb/) 
   - [C/C++ extension from Microsoft for VSCode](https://github.com/microsoft/vscode-cpptools)
@@ -13,7 +13,7 @@
 
   - Launch file for ROS node
  
-### Create a launch.json
+## Create a launch.json
 
   - Open workplace roobt folder in VSCode 
   - Switch to ROS Extension page 
@@ -45,10 +45,10 @@
 .   <img src="media/launch_json.png" alt="launch_json" width="600"/>
 
    
-### Debug
+## Debug
 
 
-### Annex
+## Annex
 
 Use the [editor on GitHub](https://github.com/aaifox/ros_debug/edit/gh-pages/index.md) to maintain and preview the content for website in Markdown files.
 
