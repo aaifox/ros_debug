@@ -7,8 +7,11 @@
     * <img src="media/ros_extension.png" alt="ros_extension" width="500"/>
   - [ROS extension from Microsoft for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-iot.vscode-ros)
     * <img src="media/cpp_extension.png" alt="cpp_extension" width="500"/>
+  - Launch file for ROS node
  
-  
+### Create a launch.json
+  1. Click the Button on the left side bar and click `create a launch.json file` under `Run and Debug`
+  2. 
 
   
   
