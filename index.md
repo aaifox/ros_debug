@@ -11,6 +11,7 @@
  
 ### Create a launch.json
   1. Click the Button on the left side bar and click `create a launch.json file` under `Run and Debug`
+  
     * <img src="media/create_launch_json.png" alt="create_launch_json.png" width="100"/>
   2. 
 
