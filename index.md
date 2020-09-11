@@ -3,12 +3,14 @@
 ### Prerequisites
   - [VScode](https://code.visualstudio.com/)
   - [C/C++ extension from Microsoft for VSCode](https://github.com/microsoft/vscode-cpptools)
+    * <img src="media/ros_extension.png" alt="ros_extension" width="500"/>
   - [ROS extension from Microsoft for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-iot.vscode-ros)
-  - GDB
+    * <img src="media/cpp_extension.png" alt="cpp_extension" width="500"/>
+  - [GDB](https://www.gnu.org/software/gdb/)
   
-  <img src="media/ros_extension.png" alt="ros_extension" width="400"/>
+  
 
-  <img src="media/cpp_extension.png" alt="cpp_extension" width="400"/>
+  
   
   
 ### Markdown
