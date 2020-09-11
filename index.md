@@ -13,7 +13,7 @@
   1. Open workplace roobt folder in VSCode
   2. Switch to ROS Extension page
   
-    * <img src="media/ros_extension_page.png" alt="ros_extension_page" width="500"/>
+    <img src="media/ros_extension_page.png" alt="ros_extension_page" width="500"/>
   3. Click the Button on the left side bar and click `create a launch.json file` under `Run and Debug`
   
     <img src="media/create_launch_json.png" alt="create_launch_json" width="200"/>
