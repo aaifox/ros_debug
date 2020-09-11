@@ -4,9 +4,9 @@
   - [VScode](https://code.visualstudio.com/)
   - [GDB](https://www.gnu.org/software/gdb/) 
   - [C/C++ extension from Microsoft for VSCode](https://github.com/microsoft/vscode-cpptools)
-    *<img src="media/ros_extension.png" alt="ros_extension" width="500"/>
+    * <img src="media/ros_extension.png" alt="ros_extension" width="500"/>
   - [ROS extension from Microsoft for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-iot.vscode-ros)
-    *<img src="media/cpp_extension.png" alt="cpp_extension" width="500"/>
+    * <img src="media/cpp_extension.png" alt="cpp_extension" width="500"/>
  
   
 
