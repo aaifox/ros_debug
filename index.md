@@ -47,6 +47,8 @@
    
 ## Debug
 
+  - A `roscore` need to be launched first. If not  
+
 
 ## Annex
 
