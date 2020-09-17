@@ -47,7 +47,18 @@
    
 ## Debug
 
-  - A `roscore` need to be launched first. If not  
+### A `roscore` need to be launched first. 
+  - `roscore` not running
+  
+.   <img src="media/ros_master_not_running.png" alt="ros_master_not_running" width="500"/>
+
+  - `roscore` is running
+  
+.   <img src="media/ros_master_running.png" alt="ros_master_running" width="500"/>
+
+### Start Debuging
+
+.   <img src="media/start_debuging.png" alt="start_debuging" width="500"/>
 
 
 ## Annex
