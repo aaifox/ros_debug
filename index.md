@@ -47,6 +47,11 @@
    
 ## Debug
 
+### Compile
+Compile the package with
+``` catkin_make -DCMAKE_BUILD_TYPE=Debug ```
+This will set '-g'.
+
 ### A `roscore` need to be launched first. 
   - `roscore` not running
   
